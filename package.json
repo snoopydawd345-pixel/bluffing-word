@@ -1,0 +1,21 @@
+{
+  "name": "word-bluff",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A room-code multiplayer bluffing word game built with React",
+  "scripts": {
+    "dev": "node dev.js",
+    "build": "vite build",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
